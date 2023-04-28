@@ -1,6 +1,6 @@
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    background-color:white;
+    background-color: rgba(210, 105, 30, 0.496);
 }
 
 p{
@@ -21,9 +21,6 @@ h1{
 span{
     color: chocolate;
 }
-
-
-
 
 
 
